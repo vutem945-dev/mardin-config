@@ -7,25 +7,23 @@
       "name": "Germany Telegram",
       "country": "Germany",
       "type": "MTProto",
-      "link": "https://t.me/proxy?server=thomas.proxy.rlwy.net&port=32841&secret=77aa8245292163225fd4087bf183c55f"
+      "link": "tg://proxy?server=thomas.proxy.rlwy.net&port=32841&secret=77aa8245292163225fd4087bf183c55f"
     }
   ],
 
   "configs": [
     {
-      "name": "United states VLESS",
-      "country": "United states",
+      "name": "United States VLESS",
+      "country": "United States",
       "type": "VLESS",
-      "link": "vless://8fe31772-a4b7-4a70-9fa2-34124c7284ca@194.31.223.87:5443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=de.wlrus.cfd#Channel%20%3A%20%40Daily_Configs%20"
+      "link": "vless://8fe31772-a4b7-4a70-9fa2-34124c7284ca@194.31.223.87:5443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=de.wlrus.cfd#Channel%20%3A%20%40Daily_Configs"
     },
- {
-    "name": "France VMess",
-    "country": "France",
-    "type": "VMess",
-    "link": "vless://b6c29ae7-4748-4049-b642-b695c0d2c776@193.58.121.95:2096?encryption=none&security=none&sni=de-193-58.neobo-tooth.ru&type=ws&path=%2F#United%2BStates"
+    {
+      "name": "France VMess",
+      "country": "France",
+      "type": "VMess",
+      "link": "vless://b6c29ae7-4748-4049-b642-b695c0d2c776@193.58.121.95:2096?encryption=none&security=none&sni=de-193-58.neobo-tooth.ru&type=ws&path=%2F#United%2BStates"
     },
-    
-     "configs": [
     {
       "name": "Russia VLESS",
       "country": "Russia",
@@ -33,4 +31,4 @@
       "link": "vless://a704443d-655e-4d9f-8ce6-12eeb17a9a08@de.alertyagency.com:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=api-maps.yandex.ru&fp=chrome&pbk=wDJibB6Rd20xkiSeIKLLo60DsKqB3il6gtXlpYxITj4&sid=977aa6df&type=tcp&headerType=none#Blue"
     }
   ]
-
+}
