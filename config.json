@@ -13,8 +13,8 @@
 
   "configs": [
     {
-      "name": "Italy VLESS",
-      "country": "Italy",
+      "name": "United states VLESS",
+      "country": "United states",
       "type": "VLESS",
       "link": "vless://8fe31772-a4b7-4a70-9fa2-34124c7284ca@194.31.223.87:5443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=de.wlrus.cfd#Channel%20%3A%20%40Daily_Configs%20"
     },
