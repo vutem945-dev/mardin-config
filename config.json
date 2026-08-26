@@ -1,6 +1,12 @@
 {
   "app_name": "Mardin",
-  "last_update": "2026-08-26",
-  "telegram_proxies": [],
-  "configs": []
-}
+  "last_update": "2026-08-26 04:00",
+
+  "telegram_proxies": [
+    {
+      "name": "Germany Telegram",
+      "country": "Germany",
+      "type": "MTProto",
+      "link": "https://t.me/proxy?server=thomas.proxy.rlwy.net&port=32841&secret=77aa8245292163225fd4087bf183c55f"
+    }
+  ]
