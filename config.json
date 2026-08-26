@@ -1,0 +1,22 @@
+{
+  "app_name": "Mardin",
+  "last_update": "2026-08-26 04:00",
+
+  "telegram_proxies": [
+    {
+      "name": "Germany Telegram",
+      "country": "Germany",
+      "type": "MTProto",
+      "link": "https://t.me/proxy?server=thomas.proxy.rlwy.net&port=32841&secret=77aa8245292163225fd4087bf183c55f"
+    }
+  ],
+
+  "configs": [
+    {
+      "name": "Germany VLESS",
+      "country": "Germany",
+      "type": "VLESS",
+      "link": "vless://8fe31772-a4b7-4a70-9fa2-34124c7284ca@194.31.223.87:5443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=de.wlrus.cfd#Channel%20%3A%20%40Daily_Configs%20"
+    }
+  ]
+}
