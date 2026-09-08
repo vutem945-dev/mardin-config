@@ -1,11 +1,11 @@
 {
   "app_name": "Mardin",
-  "last_update": "2026-08-26 04:00",
+  "last_update": "2026-09-08 19:00",
 
   "telegram_proxies": [
     {
-      "name": "Germany Telegram",
-      "country": "Germany",
+      "name": "United States Telegram",
+      "country": "United States",
       "type": "MTProto",
       "link": "https://t.me/proxy?server=puot.mozitop.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ"
     }
@@ -13,8 +13,8 @@
 
   "configs": [
     {
-      "name": "Germany VLESS",
-      "country": "Germany",
+      "name": "United States VLESS",
+      "country": "United States",
       "type": "VLESS",
       "link": "vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@89.35.14.31:443?encryption=none&security=reality&sni=md2.univesalsrv.com&fp=firefox&pbk=JXFsWHYjhAcR-7yz9tuCTMdcfuiyC9a-C9ewA55Z63o&sid=d36a38659ce106cb&spx=%2FHesarWeb&type=grpc&authority=&serviceName=hub.v1.SyncService&mode=gun#Mardin%20"
     }
