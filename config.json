@@ -7,7 +7,7 @@
       "name": "Germany Telegram",
       "country": "Germany",
       "type": "MTProto",
-      "link": "https://t.me/proxy?server=thomas.proxy.rlwy.net&port=32841&secret=77aa8245292163225fd4087bf183c55f"
+      "link": "https://t.me/proxy?server=puot.mozitop.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ"
     }
   ],
 
@@ -16,7 +16,7 @@
       "name": "Germany VLESS",
       "country": "Germany",
       "type": "VLESS",
-      "link": "vless://8fe31772-a4b7-4a70-9fa2-34124c7284ca@194.31.223.87:5443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=de.wlrus.cfd#Channel%20%3A%20%40Daily_Configs%20"
+      "link": "vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@89.35.14.31:443?encryption=none&security=reality&sni=md2.univesalsrv.com&fp=firefox&pbk=JXFsWHYjhAcR-7yz9tuCTMdcfuiyC9a-C9ewA55Z63o&sid=d36a38659ce106cb&spx=%2FHesarWeb&type=grpc&authority=&serviceName=hub.v1.SyncService&mode=gun#Mardin%20"
     }
   ]
 }
