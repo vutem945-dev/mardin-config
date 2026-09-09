@@ -1,21 +1,13 @@
 {
   "app_name": "Mardin",
-  "last_update": "2026-09-09 04:34",
+  "last_update": "2026-09-09 04:36",
 
   "telegram_proxies": [
     {
       "name": "Italy Telegram",
       "country": "United States",
       "type": "MTProto",
-      "link": "https://t.me/proxy?server=puot.mozitop.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ"
-    }
-  ],
-  
-    {
-      "name": "United States Telegram",
-      "country": "United States",
-      "type": "MTProto",
-      "link": "https://t.me/proxy?server=hadaf.golgoli2.co.uk&port=2053&secret=eeNEgYdJvXrFGRMCIMJdCQ"
+      "link": "https://t.me/proxy?server=ssh.meow0.co.uk&port=22&secret=dd79e344818749bd7ac519130220c25d09"
     }
   ],
   
