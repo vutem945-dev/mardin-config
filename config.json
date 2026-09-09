@@ -1,76 +1,30 @@
 {
   "app_name": "Mardin",
-  "last_update": "2026-09-09 04:30",
+  "last_update": "2026-09-09 04:34",
 
   "telegram_proxies": [
+    {
+      "name": "Italy Telegram",
+      "country": "United States",
+      "type": "MTProto",
+      "link": "https://t.me/proxy?server=puot.mozitop.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ"
+    }
+  ],
+  
     {
       "name": "United States Telegram",
       "country": "United States",
       "type": "MTProto",
       "link": "https://t.me/proxy?server=hadaf.golgoli2.co.uk&port=2053&secret=eeNEgYdJvXrFGRMCIMJdCQ"
-    },
-    {
-      "name": "United Kingdom Telegram",
-      "country": "United Kingdom",
-      "type": "MTProto",
-      "link": "https://t.me/proxy?server=ssh.meow0.co.uk&port=22&secret=dd79e344818749bd7ac519130220c25d09"
-    },
-    {
-      "name": "Telegram Proxy 3",
-      "country": "Unknown",
-      "type": "MTProto",
-      "link": "https://t.me/proxy?server=mamadgoli.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09"
     }
   ],
-
+  
   "configs": [
     {
-      "name": "VLESS - Domain",
-      "country": "Unknown",
-      "type": "VLESS",
-      "link": "vless://83856837-80a7-4ea1-9ab4-4dacee7d68ef@gwul49g4v-i3-38eb-2.kbjkbkk.workers.dev:443?encryption=none&security=tls&sni=GwUl49G4v-i3-38eB-2.KbJkBKK.wOrKers.DEV&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=gwul49g4v-i3-38eb-2.kbjkbkk.workers.dev&path=%2Fvl%2F7qdS0jf8Qh46U5agN1s2%3Fed%3D2560#%F0%9F%92%A6%201.%20VLESS%20-%20Domain%20%3A%20443"
-    },
-    {
-      "name": "VLESS - IPv4 1",
+      "name": "United States VLESS",
       "country": "United States",
       "type": "VLESS",
-      "link": "vless://83856837-80a7-4ea1-9ab4-4dacee7d68ef@104.21.57.85:443?encryption=none&security=tls&sni=Gwul49g4V-i3-38Eb-2.KbJKBKK.WOrKeRs.dEV&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=gwul49g4v-i3-38eb-2.kbjkbkk.workers.dev&path=%2Fvl%2FAyVgWmcHgslVty2ryTq3kdw48p0iMc%3Fed%3D2560#%F0%9F%92%A6%202.%20VLESS%20-%20IPv4%20%3A%20443"
-    },
-    {
-      "name": "VLESS - IPv4 2",
-      "country": "United States",
-      "type": "VLESS",
-      "link": "vless://83856837-80a7-4ea1-9ab4-4dacee7d68ef@172.67.161.145:443?encryption=none&security=tls&sni=GwuL49G4V-I3-38eb-2.KBjKBKK.wORKErS.Dev&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=gwul49g4v-i3-38eb-2.kbjkbkk.workers.dev&path=%2Fvl%2FshnN32VffVLEUeb5PGs%3Fed%3D2560#%F0%9F%92%A6%203.%20VLESS%20-%20IPv4%20%3A%20443"
-    },
-    {
-      "name": "VLESS - Clean IP",
-      "country": "Unknown",
-      "type": "VLESS",
-      "link": "vless://83856837-80a7-4ea1-9ab4-4dacee7d68ef@www.speedtest.net:443?encryption=none&security=tls&sni=gWUL49g4V-i3-38eb-2.KBjkBKK.WoRKers.dEV&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=gwul49g4v-i3-38eb-2.kbjkbkk.workers.dev&path=%2Fvl%2FHlD9Qru5UmnDHYAlU%3Fed%3D2560#%F0%9F%92%A6%204.%20VLESS%20-%20Clean%20IP%20%3A%20443"
-    },
-    {
-      "name": "Trojan - Domain",
-      "country": "Unknown",
-      "type": "Trojan",
-      "link": "trojan://gZJhsP%2AeNW%2A9JJmp%3B2%3AG@gwul49g4v-i3-38eb-2.kbjkbkk.workers.dev:443?security=tls&sni=GwUl49g4v-i3-38eB-2.KbJkBKK.wOrKers.DEV&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=gwul49g4v-i3-38eb-2.kbjkbkk.workers.dev&path=%2Ftr%2FkxGwtEHxZKccYLKVt3TKa7V5l8Lgp%3Fed%3D2560#%F0%9F%92%A6%201.%20Trojan%20-%20Domain%20%3A%20443"
-    },
-    {
-      "name": "Trojan - IPv4 1",
-      "country": "United States",
-      "type": "Trojan",
-      "link": "trojan://gZJhsP%2AeNW%2A9JJmp%3B2%3AG@104.21.57.85:443?security=tls&sni=GwUl49g4v-i3-38Eb-2.KbJKBKK.WOrKeRs.dEV&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=gwul49g4v-i3-38eb-2.kbjkbkk.workers.dev&path=%2Ftr%2FUOInO2UD5oSCFzZQpsHPZz%3Fed%3D2560#%F0%9F%92%A6%202.%20Trojan%20-%20IPv4%20%3A%20443"
-    },
-    {
-      "name": "Trojan - IPv4 2",
-      "country": "United States",
-      "type": "Trojan",
-      "link": "trojan://gZJhsP%2AeNW%2A9JJmp%3B2%3AG@172.67.161.145:443?security=tls&sni=GwuL49G4V-I3-38eb-2.KBjKBKK.wORKErS.Dev&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=gwul49g4v-i3-38eb-2.kbjkbkk.workers.dev&path=%2Ftr%2FXTF11RXEr6CiZeTih47%3Fed%3D2560#%F0%9F%92%A6%203.%20Trojan%20-%20IPv4%20%3A%20443"
-    },
-    {
-      "name": "Trojan - Clean IP",
-      "country": "Unknown",
-      "type": "Trojan",
-      "link": "trojan://gZJhsP%2AeNW%2A9JJmp%3B2%3AG@www.speedtest.net:443?security=tls&sni=gWUL49g4V-i3-38eb-2.KBjkBKK.WoRKers.dEV&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=gwul49g4v-i3-38eb-2.kbjkbkk.workers.dev&path=%2Ftr%2FaLgzzSsPhfJeH7yjwqu3%3Fed%3D2560#%F0%9F%92%A6%204.%20Trojan%20-%20Clean%20IP%20%3A%20443"
+      "link": "vless://83856837-80a7-4ea1-9ab4-4dacee7d68ef@104.21.57.85:443?encryption=none&security=tls&sni=Gwul49G4v-i3-38Eb-2.kbjkBkk.woRkErs.dev&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=gwul49g4v-i3-38eb-2.kbjkbkk.workers.dev&path=%2Fvl%2FzyUZZ15JYFAAQSJVSLFO%3Fed%3D2560#%F0%9F%92%A6%202.%20VLESS%20-%20IPv4%20%3A%20443"
     }
   ]
 }
