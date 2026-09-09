@@ -4,7 +4,7 @@
 
   "telegram_proxies": [
     {
-      "name": "United States Telegram",
+      "name": "Italy Telegram",
       "country": "United States",
       "type": "MTProto",
       "link": "https://t.me/proxy?server=puot.mozitop.co.uk&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ"
