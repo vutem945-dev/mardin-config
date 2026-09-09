@@ -4,7 +4,7 @@
 
   "telegram_proxies": [
     {
-      "name": "Italy Telegram",
+      "name": "USA Telegram",
       "country": "United States",
       "type": "MTProto",
       "link": "https://t.me/proxy?server=ssh.meow0.co.uk&port=22&secret=dd79e344818749bd7ac519130220c25d09"
