@@ -1,8 +1,6 @@
 {
   "app_name": "Mardin",
-  "config_version": "4.1",
-  "proxy_version": "4.1",
-  "last_update": "2026-09-15 15:02",
+  "last_update": "2026-09-15 15:20",
 
   "telegram_proxies": [
     {
@@ -13,15 +11,15 @@
       "link": "https://t.me/proxy?server=ssh.meow0.co.uk&port=22&secret=dd79e344818749bd7ac519130220c25d09"
     },
     {
-      "name": "United States Telegram",
-      "country": "United States",
+      "name": "Russia Telegram",
+      "country": "Russia",
       "type": "MTProto",
       "recommended": true,
       "link": "https://t.me/proxy?server=hadaf.golgoli2.co.uk&port=2053&secret=eeNEgYdJvXrFGRMCIMJdCQ"
     },
     {
-      "name": "United States Telegram",
-      "country": "United States",
+      "name": "Oman Telegram",
+      "country": "Oman",
       "type": "MTProto",
       "link": "https://t.me/proxy?server=mamadgoli.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09"
     }
@@ -29,24 +27,37 @@
 
   "configs": [
     {
-      "name": "1. Mardin - VLESS Domain",
-      "country": "Unknown",
-      "type": "VLESS",
-      "recommended": true,
-      "link": "vless://83856837-80a7-4ea1-9ab4-4dacee7d68ef@gwul49g4v-i3-38eb-2.kbjkbkk.workers.dev:443?encryption=none&security=tls&sni=gwUL49G4V-I3-38eB-2.KBJKbKK.worKeRs.deV&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=gwul49g4v-i3-38eb-2.kbjkbkk.workers.dev&path=%2Fvl%2FPtFVu8L11uLyz5CKdWkkJ3Km9ZTo%3Fed%3D2560#%201.Mardin%3B%20VLESS%20-%20Domain%20%3A%20443"
-    },
-    {
-      "name": "1. Mardin - Trojan Domain",
-      "country": "Unknown",
+      "name": "4. Mardin - Telegram/VLESS",
+      "country": "Germany",
       "type": "Trojan",
       "recommended": true,
-      "link": "trojan://gZJhsP%2AeNW%2A9JJmp%3B2%3AG@gwul49g4v-i3-38eb-2.kbjkbkk.workers.dev:443?security=tls&sni=gwUL49G4V-I3-38eB-2.KBJKbKK.worKeRs.deV&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=gwul49g4v-i3-38eb-2.kbjkbkk.workers.dev&path=%2Ftr%2FKpCCKNtVQytGAkaZcOBcOYIc%3Fed%3D2560#%201.Mardin%3B%20Trojan%20-%20Domain%20%3A%20443"
+      "link": "trojan://MITIVPN@199.232.78.101:443?security=tls&sni=ssl.fastly.com&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=mitivpn---ss--s---mitivpn-11s.global.ssl.fastly.net&path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2FNLSus---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN#%204.Mardin%3B%20Telegram%2FVLESS"
     },
     {
-      "name": "3. Mardin - Trojan IPv4",
+      "name": "3. Mardin - Telegram/VLESS",
+      "country": "France",
+      "type": "Trojan",    
+      "link": "trojan://MITIVPN@167.82.76.7:443?security=tls&sni=ssl.fastly.com&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=mitivpn---ss--s---mitivpn-33s.global.ssl.fastly.net&path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2FNLSs---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN#%203.Mardin%3B%20Telegram%2FVLESS"
+    },
+    {
+      "name": "2. Mardin - Game/VLESS",
+      "country": "Greece",
+      "type": "Trojan",
+      "recommended": true,
+      "link": "trojan://MITIVPN@199.232.78.160:443?security=tls&sni=ssl.fastly.com&fp=firefox&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=mitivpn---ss--s---mitivpn-44s.global.ssl.fastly.net&path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2FD-e1i%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN#%202.Mardin%3B%20Game%2FVLESS%F0%9D%91%AE%F0%92%90%F0%92%8D%F0%92%85%20"
+    },
+    {
+      "name": "1. Mardin - Game/VLESS Domain",
+      "country": "Germany",
+      "type": "VLESS",
+      "link": "vless://83856837-80a7-4ea1-9ab4-4dacee7d68ef@gwul49g4v-i3-38eb-2.kbjkbkk.workers.dev:443?encryption=none&security=tls&sni=gwUL49G4V-I3-38eB-2.KBJKbKK.worKeRs.deV&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=gwul49g4v-i3-38eb-2.kbjkbkk.workers.dev&path=%2Fvl%2FPtFVu8L11uLyz5CKdWkkJ3Km9ZTo%3Fed%3D2560#%201.Mardin%3B%20Game%2FVLESS%20-%20Domain%20%3A%20443"
+    },
+    {
+      "name": "5. Mardin - Game/Trojan Domain",
       "country": "United States",
       "type": "Trojan",
-      "link": "trojan://gZJhsP%2AeNW%2A9JJmp%3B2%3AG@172.67.161.145:443?security=tls&sni=gwul49g4v-i3-38eb-2.kbjkbkk.workers.dev&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=gwul49g4v-i3-38eb-2.kbjkbkk.workers.dev&path=%2Ftr%2FzRcw76BRgAUplz55segjZ1KOqEa0Mim%3Fed%3D2560#%203.Mardin%3B%20Trojan%20-%20IPv4%20%3A%20443"
+      "recommended": true,
+      "link": "trojan://gZJhsP%2AeNW%2A9JJmp%3B2%3AG@gwul49g4v-i3-38eb-2.kbjkbkk.workers.dev:443?security=tls&sni=gwUL49G4V-I3-38eB-2.KBJKbKK.worKeRs.deV&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=gwul49g4v-i3-38eb-2.kbjkbkk.workers.dev&path=%2Ftr%2FKpCCKNtVQytGAkaZcOBcOYIc%3Fed%3D2560#%205.Mardin%3BGmae%2F%20Trojan%20-%20Domain%20%3A%20443"
     }
   ]
 }
