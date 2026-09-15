@@ -1,18 +1,20 @@
 {
   "app_name": "Mardin",
-  "last_update": "2026-09-09 04:40",
+  "last_update": "2026-09-15 14:49",
 
   "telegram_proxies": [
     {
       "name": "United States Telegram",
       "country": "United States",
       "type": "MTProto",
+      "recommended": true,
       "link": "https://t.me/proxy?server=ssh.meow0.co.uk&port=22&secret=dd79e344818749bd7ac519130220c25d09"
     },
     {
       "name": "United States Telegram",
       "country": "United States",
       "type": "MTProto",
+      "recommended": true,
       "link": "https://t.me/proxy?server=hadaf.golgoli2.co.uk&port=2053&secret=eeNEgYdJvXrFGRMCIMJdCQ"
     },
     {
@@ -28,49 +30,21 @@
       "name": "1. Mardin - VLESS Domain",
       "country": "Unknown",
       "type": "VLESS",
+      "recommended": true,
       "link": "vless://83856837-80a7-4ea1-9ab4-4dacee7d68ef@gwul49g4v-i3-38eb-2.kbjkbkk.workers.dev:443?encryption=none&security=tls&sni=gwUL49G4V-I3-38eB-2.KBJKbKK.worKeRs.deV&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=gwul49g4v-i3-38eb-2.kbjkbkk.workers.dev&path=%2Fvl%2FPtFVu8L11uLyz5CKdWkkJ3Km9ZTo%3Fed%3D2560#%201.Mardin%3B%20VLESS%20-%20Domain%20%3A%20443"
-    },
-    {
-      "name": "2. Mardin - VLESS IPv4",
-      "country": "United States",
-      "type": "VLESS",
-      "link": "vless://83856837-80a7-4ea1-9ab4-4dacee7d68ef@104.21.57.85:443?encryption=none&security=tls&sni=Gwul49G4v-i3-38Eb-2.kbjkBkk.woRkErs.dev&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=gwul49g4v-i3-38eb-2.kbjkbkk.workers.dev&path=%2Fvl%2FzyUZZ15JYFAAQSJVSLFO%3Fed%3D2560#%202.Mardin%3B%20VLESS%20-%20IPv4%20%3A%20443"
-    },
-    {
-      "name": "3. Mardin - VLESS IPv4",
-      "country": "United States",
-      "type": "VLESS",
-      "link": "vless://83856837-80a7-4ea1-9ab4-4dacee7d68ef@172.67.161.145:443?encryption=none&security=tls&sni=gwUL49g4V-I3-38EB-2.kBJkbkK.WOrKeRs.dEv&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=gwul49g4v-i3-38eb-2.kbjkbkk.workers.dev&path=%2Fvl%2FjMBhRZFbhlV8GB0Poh3hV6mzLi%3Fed%3D2560#%203.Mardin%3B%20VLESS%20-%20IPv4%20%3A%20443"
-    },
-    {
-      "name": "4. Mardin - VLESS Clean IP",
-      "country": "Unknown",
-      "type": "VLESS",
-      "link": "vless://83856837-80a7-4ea1-9ab4-4dacee7d68ef@www.speedtest.net:443?encryption=none&security=tls&sni=GwUL49g4v-I3-38eB-2.KBjKBKk.WorKeRS.dEV&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=gwul49g4v-i3-38eb-2.kbjkbkk.workers.dev&path=%2Fvl%2FXqMcBy3WL3rcqsiU7NDs%3Fed%3D2560#%204.Mardin%3B%20VLESS%20-%20Clean%20IP%20%3A%20443"
     },
     {
       "name": "1. Mardin - Trojan Domain",
       "country": "Unknown",
       "type": "Trojan",
+      "recommended": true,
       "link": "trojan://gZJhsP%2AeNW%2A9JJmp%3B2%3AG@gwul49g4v-i3-38eb-2.kbjkbkk.workers.dev:443?security=tls&sni=gwUL49G4V-I3-38eB-2.KBJKbKK.worKeRs.deV&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=gwul49g4v-i3-38eb-2.kbjkbkk.workers.dev&path=%2Ftr%2FKpCCKNtVQytGAkaZcOBcOYIc%3Fed%3D2560#%201.Mardin%3B%20Trojan%20-%20Domain%20%3A%20443"
-    },
-    {
-      "name": "2. Mardin - Trojan IPv4",
-      "country": "United States",
-      "type": "Trojan",
-      "link": "trojan://gZJhsP%2AeNW%2A9JJmp%3B2%3AG@104.21.57.85:443?security=tls&sni=Gwul49G4v-i3-38Eb-2.kbjkBkk.woRkErs.dev&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=gwul49g4v-i3-38eb-2.kbjkbkk.workers.dev&path=%2Ftr%2F1eL9ld0jX3Xd7KPPKT0u9Xj9y0cx%3Fed%3D2560#%202.Mardin%3B%20Trojan%20-%20IPv4%20%3A%20443"
     },
     {
       "name": "3. Mardin - Trojan IPv4",
       "country": "United States",
       "type": "Trojan",
-      "link": "trojan://gZJhsP%2AeNW%2A9JJmp%3B2%3AG@172.67.161.145:443?security=tls&sni=gwUL49g4v-i3-38EB-2.kBJkbkK.WOrKeRs.dEv&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=gwul49g4v-i3-38eb-2.kbjkbkk.workers.dev&path=%2Ftr%2FzRcw76BRgAUplz55segjZ1KOqEa0Mim%3Fed%3D2560#%203.Mardin%3B%20Trojan%20-%20IPv4%20%3A%20443"
-    },
-    {
-      "name": "4. Mardin - Trojan Clean IP",
-      "country": "Unknown",
-      "type": "Trojan",
-      "link": "trojan://gZJhsP%2AeNW%2A9JJmp%3B2%3AG@www.speedtest.net:443?security=tls&sni=GwUL49g4v-I3-38eB-2.KBjKBKk.WorKeRS.dEV&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=gwul49g4v-i3-38eb-2.kbjkbkk.workers.dev&path=%2Ftr%2Fx6QYN626ctnBKXg8coo8UpZ750UUp%3Fed%3D2560#%204.Mardin%3B%20Trojan%20-%20Clean%20IP%20%3A%20443"
+      "link": "trojan://gZJhsP%2AeNW%2A9JJmp%3B2%3AG@172.67.161.145:443?security=tls&sni=gwul49g4v-i3-38eb-2.kbjkbkk.workers.dev&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=gwul49g4v-i3-38eb-2.kbjkbkk.workers.dev&path=%2Ftr%2FzRcw76BRgAUplz55segjZ1KOqEa0Mim%3Fed%3D2560#%203.Mardin%3B%20Trojan%20-%20IPv4%20%3A%20443"
     }
   ]
 }
