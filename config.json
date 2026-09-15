@@ -1,6 +1,8 @@
 {
   "app_name": "Mardin",
-  "last_update": "2026-09-15 14:49",
+  "config_version": "3.1",
+  "proxy_version": "2.1",
+  "last_update": "2026-09-15 15:00",
 
   "telegram_proxies": [
     {
