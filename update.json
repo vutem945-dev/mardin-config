@@ -1,7 +1,7 @@
 {
   "latest_version": "2.2.0",
   "minimum_supported_version": "1.0.0",
-  "update_required": false,
+  "update_required": true,
   "download_url": "https://github.com/vutem945-dev/Mardin-download/raw/refs/heads/main/Mardin-2.2.0.apk",
   "release_notes": "Mardin 2.1.0: Improved configuration handling, Telegram proxy support, and UI fixes."
 }
