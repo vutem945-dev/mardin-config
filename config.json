@@ -34,11 +34,11 @@
       "link": "trojan://MITIVPN@199.232.78.101:443?security=tls&sni=ssl.fastly.com&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=mitivpn---ss--s---mitivpn-11s.global.ssl.fastly.net&path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2FNLSus---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN#%204.Mardin%3B%20Telegram%2FVLESS"
     },
     {
-      "name": "3. Mardin - Telegram/VLESS",
+      "name": "3. Mardin85 - Telegram/VLESS",
       "country": "Germany",
       "type": "Trojan",
       "recommended": true,
-      "link": "https://7-8nmlblvxbtkctmf274pupl24qrwu.shwngnwwnwwtnwn.workers.dev/lo7yr3uYLvUV8/sub/raw?app=xray#%F0%9F%92%A6%20BPB%20Raw"
+      "link": "trojan://mitivpn@199.232.78.101:443?security=tls&sni=ssl.fastly.com&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=mitivpn---de--s---mitivpn-11.global.ssl.fastly.net&path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2FNLSus---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN#Test500G"
     },
     {
       "name": "3. Mardin - Telegram/VLESS",
