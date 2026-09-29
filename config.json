@@ -1,6 +1,6 @@
 {
   "app_name": "Mardin",
-  "last_update": "2026-09-19 19:27",
+  "last_update": "2026-09-20 20:27",
 
   "telegram_proxies": [
     {
@@ -34,7 +34,7 @@
       "link": "trojan://MITIVPN@199.232.78.101:443?security=tls&sni=ssl.fastly.com&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=mitivpn---ss--s---mitivpn-11s.global.ssl.fastly.net&path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2FNLSus---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN#%204.Mardin%3B%20Telegram%2FVLESS"
     },
     {
-      "name": "3. Mardin85 - Telegram/VLESS",
+      "name": "3. Mardin8556 - Telegram/VLESS",
       "country": "Germany",
       "type": "Trojan",
       "recommended": true,
