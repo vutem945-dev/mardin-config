@@ -1,7 +1,6 @@
 {
   "app_name": "Mardin",
-  "last_update": "2026-09-29 02:08",
-
+  "last_update": "2026-10-18 00:00",
   "telegram_proxies": [
     {
       "name": "United States Telegram",
@@ -24,7 +23,6 @@
       "link": "https://t.me/proxy?server=mamadgoli.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09"
     }
   ],
-
   "configs": [
     {
       "name": "💎GOLD💎 VLESS-MardinCP / 1 just one",
@@ -36,39 +34,39 @@
     {
       "name": "1.Trojan-MardinCP / 1 bad net",
       "country": "Germany",
-      "type": "vless",
+      "type": "VLESS",
       "link": "vless://40361bdb-7ff7-469e-98e0-984363f2dab5@www.speedtest.net:8443?encryption=none&security=tls&sni=6rG67gmO4jfT-VVZ.PagES.dEv&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=6rg67gmo4jft-vvz.pages.dev&path=%2Fvl%2FBT7YJjdYYfOmo4YQlr69EHz%3Fed%3D2560#%D8%B4%D8%B1%D8%A7%DB%8C%D8%B7%20%D8%AC%D9%86%DA%AF%DB%8CIP%20%3A%208443"
     },
     {
       "name": "MardinCP / 1",
       "country": "Netherlands",
-      "type": "Trojan",    
+      "type": "Trojan",
       "link": "trojan://vPfo3Hb2Cdo%3BMBG%240@172.66.45.21:2083?security=tls&sni=8qv7JC3J0etosMWvi6l-S1.paGeS.DEv&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=8qv7jc3j0etosmwvi6l-s1.pages.dev&path=%2Ftr%2FwAcrk2USOsCE2ml2IezkRzwYHlZV%3Fed%3D2560#100G"
     },
     {
       "name": "1 Complete nationwide internet blackout for downloading study materials (Md)",
       "country": "Iran",
-      "recommended": true,
-      "link": "vless://edcd17d5-0fe9-46ac-8a07-892798a70205@172.66.45.21:2083?encryption=none&security=tls&sni=8qv7JC3J0etosMWvi6l-S1.paGeS.DEv&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=8qv7jc3j0etosmwvi6l-s1.pages.dev&path=%2Fvl%2FqPYMV2sF0GcdInkAb2gbpnZoqKNPs6lO%3Fed%3D2560#%20VLESS%20-%20IPv4%20%3A%202083"
-   },
+      "type": "Xray JSON",
+      "recommended": false,
+      "link": "{\"dns\":{\"hosts\":{\"cloudflare-dns.com\":[\"1.1.1.1\",\"1.0.0.1\"]},\"servers\":[\"https://cloudflare-dns.com/dns-query\"],\"tag\":\"dns\"},\"inbounds\":[{\"domainOverride\":[\"http\",\"tls\"],\"listen\":\"127.0.0.1\",\"port\":10808,\"protocol\":\"socks\",\"settings\":{\"auth\":\"noauth\",\"udp\":true,\"userLevel\":8},\"sniffing\":{\"destOverride\":[\"http\",\"tls\"],\"enabled\":true,\"metadataOnly\":true},\"tag\":\"socks-in\"},{\"listen\":\"127.0.0.1\",\"port\":10809,\"protocol\":\"http\",\"settings\":{\"userLevel\":8},\"sniffing\":{\"destOverride\":[\"http\",\"tls\"],\"enabled\":true,\"metadataOnly\":true},\"tag\":\"http-in\"}],\"log\":{\"access\":\"\",\"dnsLog\":false,\"error\":\"\",\"loglevel\":\"none\"},\"meta\":null,\"outbounds\":[{\"domainStrategy\":\"UseIP\",\"protocol\":\"freedom\",\"settings\":{\"fragment\":{\"interval\":\"10-20\",\"length\":\"10-20\",\"packets\":\"tlshello\"}},\"sniffing\":{\"destOverride\":[\"http\",\"tls\"],\"enabled\":true,\"metadataOnly\":true},\"streamSettings\":{\"sockopt\":{\"domainStrategy\":\"UseIP\",\"mark\":255,\"tcpKeepAliveIdle\":100,\"tcpNoDelay\":true}},\"tag\":\"fragment-out\"},{\"protocol\":\"dns\",\"tag\":\"dns-out\"},{\"domainStrategy\":\"\",\"mux\":{\"concurrency\":8,\"enabled\":false},\"protocol\":\"vless\",\"settings\":{\"vnext\":[{\"address\":\"google.com\",\"port\":443,\"users\":[{\"encryption\":\"none\",\"flow\":\"\",\"id\":\"UUID\",\"level\":8,\"security\":\"auto\"}]}]},\"streamSettings\":{\"network\":\"ws\",\"security\":\"tls\",\"tlsSettings\":{\"allowInsecure\":false,\"alpn\":[\"h2\",\"http/1.1\"],\"fingerprint\":\"randomized\",\"publicKey\":\"\",\"serverName\":\"uploader Caniya\",\"shortId\":\"\",\"show\":false,\"spiderX\":\"\"},\"wsSettings\":{\"headers\":{\"Host\":\"google.com\"},\"path\":\"/\"}},\"tag\":\"fakeproxy-out\"},{\"protocol\":\"freedom\",\"settings\":{\"domainStrategy\":\"UseIP\"},\"tag\":\"direct\"}],\"policy\":{\"levels\":{\"8\":{\"connIdle\":300,\"downlinkOnly\":1,\"handshake\":4,\"uplinkOnly\":1}},\"system\":{\"statsOutboundDownlink\":true,\"statsOutboundUplink\":true}},\"remarks\":\"216.239.38.120\",\"routing\":{\"domainStrategy\":\"UseIP\",\"rules\":[{\"ip\":[\"geoip:private\"],\"outboundTag\":\"direct\",\"type\":\"field\"},{\"domain\":[\"geosite:private\"],\"outboundTag\":\"direct\",\"type\":\"field\"},{\"domain\":[\"geosite:telegram\"],\"outboundTag\":\"fakeproxy-out\",\"type\":\"field\"},{\"ip\":[\"geoip:ir\"],\"outboundTag\":\"direct\",\"type\":\"field\"},{\"inboundTag\":[\"domestic-dns\"],\"outboundTag\":\"direct\",\"type\":\"field\"},{\"enabled\":true,\"inboundTag\":[\"socks-in\",\"http-in\"],\"outboundTag\":\"dns-out\",\"port\":\"53\",\"type\":\"field\"},{\"enabled\":true,\"inboundTag\":[\"socks-in\",\"http-in\"],\"network\":\"tcp\",\"outboundTag\":\"fragment-out\",\"type\":\"field\"}],\"strategy\":\"rules\"},\"stats\":{}}"
+    },
     {
       "name": "Complete nationwide internet blackout for downloading study materials (Md)",
       "country": "Iran",
-      "recommended": true,
-      "link": "remarks": "78.109.203.199", "log": { "access": "", "error": "", "loglevel": "none", "dnsLog": false }, "dns": { "tag": "dns", "hosts": { "cloudflare-dns.com": ["78.109.203.199"], "domain:com": ["78.109.203.199"], "domain:ir": ["78.109.203.199"], "domain:org": ["78.109.203.199"]}, "servers": [ "https/cloudflare-dns.com/dns-query" ] }, "inbounds": [ { "domainOverride": ["http", "tls"], "protocol": "socks", "tag": "socks-in", "listen": "127.0.0.1", "port": 10808, "settings": { "auth": "noauth", "udp": true, "userLevel": 8 }, "sniffing": { "enabled": true, "destOverride": ["http", "tls"] } }, { "protocol": "http", "tag": "http-in", "listen": "127.0.0.1", "port": 10809, "settings": { "userLevel": 8 }, "sniffing": { "enabled": true, "destOverride": ["http", "tls"] } } ], "outbounds": [ { "protocol": "freedom", "tag": "fragment-out", "domainStrategy": "UseIP", "sniffing": { "enabled": true, "destOverride": ["http", "tls"] }, "settings": { "fragment": { "packets": "tlshello", "length": "5-15", "interval": "5-15" } }, "streamSettings": { "sockopt": { "tcpNoDelay": true, "tcpKeepAliveIdle": 100, "mark": 255, "domainStrategy": "UseIP" } } }, { "protocol": "dns", "tag": "dns-out" }, { "protocol": "vless", "tag": "fakeproxy-out", "domainStrategy": "", "settings": { "vnext": [ { "address": "google.com", "port": 443, "users": [ { "encryption": "none", "flow": "", "id": "UUID", "level": 8, "security": "auto" } ] } ] }, "streamSettings": { "network": "ws", "security": "tls", "tlsSettings": { "allowInsecure": false, "alpn": ["h2", "http/1.1"], "fingerprint": "randomized", "publicKey": "", "serverName": "google.com", "shortId": "", "show": false, "spiderX": "" }, "wsSettings": { "headers": { "Host": "google.com" }, "path": "/" } }, "mux": { "concurrency": 8, "enabled": false } }, { "protocol": "freedom", "settings": { "domainStrategy": "UseIP" }, "tag": "direct" } ], "policy": { "levels": { "8": { "connIdle": 300, "downlinkOnly": 1, "handshake": 4, "uplinkOnly": 1 } }, "system": { "statsOutboundUplink": true, "statsOutboundDownlink": true } }, "routing": { "domainStrategy": "UseIP", "rules": [ { "ip": [ "geoip:private" ], "outboundTag": "direct", "type": "field" }, { "domain": [ "geosite:private" ], "outboundTag": "direct", "type": "field" }, { "ip": [ "geoip:ir" ], "outboundTag": "direct", "type": "field" }, { "inboundTag": [ "domestic-dns" ], "outboundTag": "direct", "type": "field" }, { "inboundTag": ["socks-in", "http-in"], "type": "field", "port": "53", "outboundTag": "dns-out", "enabled": true }, { "inboundTag": ["socks-in", "http-in"], "type": "field", "port": "0-65535", "outboundTag": "fragment-out", "enabled": true } ], "strategy": "rules" }, "stats": {}"
+      "type": "Xray JSON",
+      "recommended": false,
+      "link": "{\"remarks\":\"78.109.203.199\",\"log\":{\"access\":\"\",\"error\":\"\",\"loglevel\":\"none\",\"dnsLog\":false},\"dns\":{\"tag\":\"dns\",\"hosts\":{\"cloudflare-dns.com\":[\"1.1.1.1\",\"1.0.0.1\"]},\"servers\":[\"https://cloudflare-dns.com/dns-query\"]},\"inbounds\":[{\"domainOverride\":[\"http\",\"tls\"],\"protocol\":\"socks\",\"tag\":\"socks-in\",\"listen\":\"127.0.0.1\",\"port\":10808,\"settings\":{\"auth\":\"noauth\",\"udp\":true,\"userLevel\":8},\"sniffing\":{\"enabled\":true,\"destOverride\":[\"http\",\"tls\"]}},{\"protocol\":\"http\",\"tag\":\"http-in\",\"listen\":\"127.0.0.1\",\"port\":10809,\"settings\":{\"userLevel\":8},\"sniffing\":{\"enabled\":true,\"destOverride\":[\"http\",\"tls\"]}}],\"outbounds\":[{\"protocol\":\"freedom\",\"tag\":\"fragment-out\",\"domainStrategy\":\"UseIP\",\"sniffing\":{\"enabled\":true,\"destOverride\":[\"http\",\"tls\"]},\"settings\":{\"fragment\":{\"packets\":\"tlshello\",\"length\":\"5-15\",\"interval\":\"5-15\"}},\"streamSettings\":{\"sockopt\":{\"tcpNoDelay\":true,\"tcpKeepAliveIdle\":100,\"mark\":255,\"domainStrategy\":\"UseIP\"}}},{\"protocol\":\"dns\",\"tag\":\"dns-out\"},{\"protocol\":\"vless\",\"tag\":\"fakeproxy-out\",\"domainStrategy\":\"\",\"settings\":{\"vnext\":[{\"address\":\"google.com\",\"port\":443,\"users\":[{\"encryption\":\"none\",\"flow\":\"\",\"id\":\"UUID\",\"level\":8,\"security\":\"auto\"}]}]},\"streamSettings\":{\"network\":\"ws\",\"security\":\"tls\",\"tlsSettings\":{\"allowInsecure\":false,\"alpn\":[\"h2\",\"http/1.1\"],\"fingerprint\":\"randomized\",\"publicKey\":\"\",\"serverName\":\"google.com\",\"shortId\":\"\",\"show\":false,\"spiderX\":\"\"},\"wsSettings\":{\"headers\":{\"Host\":\"google.com\"},\"path\":\"/\"}},\"mux\":{\"concurrency\":8,\"enabled\":false}},{\"protocol\":\"freedom\",\"settings\":{\"domainStrategy\":\"UseIP\"},\"tag\":\"direct\"}],\"policy\":{\"levels\":{\"8\":{\"connIdle\":300,\"downlinkOnly\":1,\"handshake\":4,\"uplinkOnly\":1}},\"system\":{\"statsOutboundUplink\":true,\"statsOutboundDownlink\":true}},\"routing\":{\"domainStrategy\":\"UseIP\",\"rules\":[{\"ip\":[\"geoip:private\"],\"outboundTag\":\"direct\",\"type\":\"field\"},{\"domain\":[\"geosite:private\"],\"outboundTag\":\"direct\",\"type\":\"field\"},{\"ip\":[\"geoip:ir\"],\"outboundTag\":\"direct\",\"type\":\"field\"},{\"inboundTag\":[\"domestic-dns\"],\"outboundTag\":\"direct\",\"type\":\"field\"},{\"inboundTag\":[\"socks-in\",\"http-in\"],\"type\":\"field\",\"port\":\"53\",\"outboundTag\":\"dns-out\",\"enabled\":true},{\"inboundTag\":[\"socks-in\",\"http-in\"],\"type\":\"field\",\"port\":\"0-65535\",\"outboundTag\":\"fragment-out\",\"enabled\":true}],\"strategy\":\"rules\"},\"stats\":{}}"
     },
-     {
+    {
       "name": "Inactive",
       "country": "Germany",
-      "type": "VLESS",
-      "recommended": true,
+      "type": "Trojan",
       "link": "trojan://p%408NFU%217gNVQ7JI_@www.speedtest.net:443?security=tls&sni=2VFYqZfgw95I5228u62L9G1dUatpQ.foW39oCkUf6YWEF531Z4xPQ.woRkERS.DeV&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=2vfyqzfgw95i5228u62l9g1duatpq.fow39ockuf6ywef531z4xpq.workers.dev&path=%2Ftr%2FTexmGnAuzOSxcs3IB0a%3Fed%3D2560#%20Trojan%20%2F%20MardinCP-%20Clean%20IP%20%3A%20443"
     },
-     {
+    {
       "name": "Inactive",
       "country": "Germany",
       "type": "VLESS",
-      "recommended": true,
       "link": "vless://ae6ed5af-9c57-405b-9c74-60f5c5ba092a@104.21.87.68:443?encryption=none&security=tls&sni=2vFyQzFGW95i5228U62l9g1dUAtPq.FOw39oCkUf6YWEF531z4XPQ.wORKers.deV&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=2vfyqzfgw95i5228u62l9g1duatpq.fow39ockuf6ywef531z4xpq.workers.dev&path=%2Fvl%2FG7ni2puN0xjRZp5DYYPmV%3Fed%3D2560#IPv4-MardinCP%20%2F%202"
     },
     {
