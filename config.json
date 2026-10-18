@@ -50,7 +50,7 @@
       "country": "Iran",
       "type": "Trojan",
       "recommended": true,
-      "link": "{
+      "link": 
 "dns": {
 "hosts": {
 "cloudflare-dns.com": [
@@ -288,8 +288,8 @@
 },
 "stats": {
 }
-}"
-    },
+}
+   },
     {
       "name": "2 قطعی کامل و سراسری اینترنت برای دانلود فایل های درسی Md",
       "country": "Iran",
