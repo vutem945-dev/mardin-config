@@ -29,7 +29,7 @@
       "country": "Germany",
       "type": "Trojan",
       "recommended": true,
-      "link": "trojan://u%3AsUmMGIOc-r%40%24KL%3A@188.114.97.3:2087?security=tls&sni=6Rg67GMo4jft-vVZ.paGEs.DeV&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=6rg67gmo4jft-vvz.pages.dev&path=%2Ftr%2F2PIuC4fizedttz9Wkz163Th6vR%3Fed%3D2560#%F0%9F%98%82%D8%A8%D9%87%20%D8%B4%D8%B1%D9%81%20%DA%A9%D8%A7%20%D9%84%D9%82%DA%A9%D8%A7%D9%86%20%D9%87%D8%B1%20%D8%A8%D9%88%DB%8C%D8%AA%D9%87%20%D8%A8%D8%A7%DB%8C%D8%B3%DB%8C%20IPv4%20%3A%202087"
+      "link": "trojan://u%3AsUmMGIOc-r%40%24KL%3A@188.114.97.3:2087?security=tls&sni=6Rg67GMo4jft-vVZ.paGEs.DeV&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=6rg67gmo4jft-vvz.pages.dev&path=%2Ftr%2F2PIuC4fizedttz9Wkz163Th6vR%3Fed%3D2560#M-port%3A2087"
     },
     {
       "name": "1.Trojan-MardinCP / 1 bad net",
@@ -44,22 +44,22 @@
       "link": "trojan://vPfo3Hb2Cdo%3BMBG%240@172.66.45.21:2083?security=tls&sni=8qv7JC3J0etosMWvi6l-S1.paGeS.DEv&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=8qv7jc3j0etosmwvi6l-s1.pages.dev&path=%2Ftr%2FwAcrk2USOsCE2ml2IezkRzwYHlZV%3Fed%3D2560#100G"
     },
     {
-      "name": "Inactive",
+      "name": "M22",
       "country": "Germany",
       "type": "Trojan",
-      "link": "trojan://p%408NFU%217gNVQ7JI_@www.speedtest.net:443?security=tls&sni=2VFYqZfgw95I5228u62L9G1dUatpQ.foW39oCkUf6YWEF531Z4xPQ.woRkERS.DeV&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=2vfyqzfgw95i5228u62l9g1duatpq.fow39ockuf6ywef531z4xpq.workers.dev&path=%2Ftr%2FTexmGnAuzOSxcs3IB0a%3Fed%3D2560#%20Trojan%20%2F%20MardinCP-%20Clean%20IP%20%3A%20443"
+      "link": "trojan://u%3AsUmMGIOc-r%40%24KL%3A@188.114.97.3:2087?security=tls&sni=6Rg67GMo4jft-vVZ.paGEs.DeV&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=6rg67gmo4jft-vvz.pages.dev&path=%2Ftr%2F2PIuC4fizedttz9Wkz163Th6vR%3Fed%3D2560#M-port%3A2087"
     },
     {
-      "name": "Inactive",
+      "name": "Domain:MarDin11/port:2083",
+      "country": "Germany",
+      "type": "Trojan",
+      "link": "trojan://u%3AsUmMGIOc-r%40%24KL%3A@188.114.97.3:2083?security=tls&sni=6rG67GMO4jfT-vvZ.paGes.deV&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=6rg67gmo4jft-vvz.pages.dev&path=%2Ftr%2FadBM9wP7jjYP8qKtJ%3Fed%3D2560#MarDin%20-%20IPv4%20%3A%202083"
+    },
+    {
+      "name": "slam hamasho test konid💙",
       "country": "Germany",
       "type": "VLESS",
-      "link": "vless://ae6ed5af-9c57-405b-9c74-60f5c5ba092a@104.21.87.68:443?encryption=none&security=tls&sni=2vFyQzFGW95i5228U62l9g1dUAtPq.FOw39oCkUf6YWEF531z4XPQ.wORKers.deV&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=2vfyqzfgw95i5228u62l9g1duatpq.fow39ockuf6ywef531z4xpq.workers.dev&path=%2Fvl%2FG7ni2puN0xjRZp5DYYPmV%3Fed%3D2560#IPv4-MardinCP%20%2F%202"
-    },
-    {
-      "name": "Inactive",
-      "country": "United States",
-      "type": "Trojan",
-      "link": "trojan://gZJhsP%2AeNW%2A9JJmp%3B2%3AG@gwul49g4v-i3-38eb-2.kbjkbkk.workers.dev:443?security=tls&sni=gwUL49G4V-I3-38eB-2.KBJKbKK.worKeRs.deV&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=gwul49g4v-i3-38eb-2.kbjkbkk.workers.dev&path=%2Ftr%2FKpCCKNtVQytGAkaZcOBcOYIc%3Fed%3D2560#%205.Mardin%3BGmae%2F%20Trojan%20-%20Domain%20%3A%20443"
+      "link": "vless://edcd17d5-0fe9-46ac-8a07-892798a70205@172.66.45.21:2083?encryption=none&security=tls&sni=8qv7JC3J0etosMWvi6l-S1.paGeS.DEv&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=8qv7jc3j0etosmwvi6l-s1.pages.dev&path=%2Fvl%2FqPYMV2sF0GcdInkAb2gbpnZoqKNPs6lO%3Fed%3D2560#M1%20Domain%20sporting.org%20%3B%20Port%3A%202084"
     }
   ]
 }
