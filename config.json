@@ -44,40 +44,6 @@
       "country": "Netherlands",
       "type": "Trojan",    
       "link": "trojan://vPfo3Hb2Cdo%3BMBG%240@172.66.45.21:2083?security=tls&sni=8qv7JC3J0etosMWvi6l-S1.paGeS.DEv&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=8qv7jc3j0etosmwvi6l-s1.pages.dev&path=%2Ftr%2FwAcrk2USOsCE2ml2IezkRzwYHlZV%3Fed%3D2560#100G"
-    },
-    {
-      "name": "1 قطعی کامل و سراسری اینترنت برای دانلود فایل های درسی Md",
-      "country": "Iran",
-      "type": "Trojan",
-      "recommended": true,
-      "link": "vless://edcd17d5-0fe9-46ac-8a07-892798a70205@172.66.45.21:2083?encryption=none&security=tls&sni=8qv7JC3J0etosMWvi6l-S1.paGeS.DEv&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=8qv7jc3j0etosmwvi6l-s1.pages.dev&path=%2Fvl%2FqPYMV2sF0GcdInkAb2gbpnZoqKNPs6lO%3Fed%3D2560#%20VLESS%20-%20IPv4%20%3A%202083"
-    },
-    {
-      "name": "2 قطعی کامل و سراسری اینترنت برای دانلود فایل های درسی Md",
-      "country": "Iran",
-      "recommended": true,
-      "type": "VLESS",
-      "link": "{ "remarks": "78.109.203.199", "log": { "access": "", "error": "", "loglevel": "none", "dnsLog": false }, "dns": { "tag": "dns", "hosts": { "cloudflare-dns.com": ["78.109.203.199"], "domain:com": ["78.109.203.199"], "domain:ir": ["78.109.203.199"], "domain:org": ["78.109.203.199"]}, "servers": [ "https/cloudflare-dns.com/dns-query" ] }, "inbounds": [ { "domainOverride": ["http", "tls"], "protocol": "socks", "tag": "socks-in", "listen": "127.0.0.1", "port": 10808, "settings": { "auth": "noauth", "udp": true, "userLevel": 8 }, "sniffing": { "enabled": true, "destOverride": ["http", "tls"] } }, { "protocol": "http", "tag": "http-in", "listen": "127.0.0.1", "port": 10809, "settings": { "userLevel": 8 }, "sniffing": { "enabled": true, "destOverride": ["http", "tls"] } } ], "outbounds": [ { "protocol": "freedom", "tag": "fragment-out", "domainStrategy": "UseIP", "sniffing": { "enabled": true, "destOverride": ["http", "tls"] }, "settings": { "fragment": { "packets": "tlshello", "length": "5-15", "interval": "5-15" } }, "streamSettings": { "sockopt": { "tcpNoDelay": true, "tcpKeepAliveIdle": 100, "mark": 255, "domainStrategy": "UseIP" } } }, { "protocol": "dns", "tag": "dns-out" }, { "protocol": "vless", "tag": "fakeproxy-out", "domainStrategy": "", "settings": { "vnext": [ { "address": "google.com", "port": 443, "users": [ { "encryption": "none", "flow": "", "id": "UUID", "level": 8, "security": "auto" } ] } ] }, "streamSettings": { "network": "ws", "security": "tls", "tlsSettings": { "allowInsecure": false, "alpn": ["h2", "http/1.1"], "fingerprint": "randomized", "publicKey": "", "serverName": "google.com", "shortId": "", "show": false, "spiderX": "" }, "wsSettings": { "headers": { "Host": "google.com" }, "path": "/" } }, "mux": { "concurrency": 8, "enabled": false } }, { "protocol": "freedom", "settings": { "domainStrategy": "UseIP" }, "tag": "direct" } ], "policy": { "levels": { "8": { "connIdle": 300, "downlinkOnly": 1, "handshake": 4, "uplinkOnly": 1 } }, "system": { "statsOutboundUplink": true, "statsOutboundDownlink": true } }, "routing": { "domainStrategy": "UseIP", "rules": [ { "ip": [ "geoip:private" ], "outboundTag": "direct", "type": "field" }, { "domain": [ "geosite:private" ], "outboundTag": "direct", "type": "field" }, { "ip": [ "geoip:ir" ], "outboundTag": "direct", "type": "field" }, { "inboundTag": [ "domestic-dns" ], "outboundTag": "direct", "type": "field" }, { "inboundTag": ["socks-in", "http-in"], "type": "field", "port": "53", "outboundTag": "dns-out", "enabled": true }, { "inboundTag": ["socks-in", "http-in"], "type": "field", "port": "0-65535", "outboundTag": "fragment-out", "enabled": true } ], "strategy": "rules" }, "stats": {} }"
-    },
-     {
-      "name": "خالی یان کردو😂",
-      "country": "Germany",
-      "type": "VLESS",
-      "recommended": true,
-      "link": "trojan://p%408NFU%217gNVQ7JI_@www.speedtest.net:443?security=tls&sni=2VFYqZfgw95I5228u62L9G1dUatpQ.foW39oCkUf6YWEF531Z4xPQ.woRkERS.DeV&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=2vfyqzfgw95i5228u62l9g1duatpq.fow39ockuf6ywef531z4xpq.workers.dev&path=%2Ftr%2FTexmGnAuzOSxcs3IB0a%3Fed%3D2560#%20Trojan%20%2F%20MardinCP-%20Clean%20IP%20%3A%20443"
-    },
-     {
-      "name": "غیر فغال",
-      "country": "Germany",
-      "type": "VLESS",
-      "recommended": true,
-      "link": "vless://ae6ed5af-9c57-405b-9c74-60f5c5ba092a@104.21.87.68:443?encryption=none&security=tls&sni=2vFyQzFGW95i5228U62l9g1dUAtPq.FOw39oCkUf6YWEF531z4XPQ.wORKers.deV&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=2vfyqzfgw95i5228u62l9g1duatpq.fow39ockuf6ywef531z4xpq.workers.dev&path=%2Fvl%2FG7ni2puN0xjRZp5DYYPmV%3Fed%3D2560#IPv4-MardinCP%20%2F%202"
-    },
-    {
-      "name": "فعال غیر فعال",
-      "country": "United States",
-      "type": "Trojan",
-      "link": "trojan://gZJhsP%2AeNW%2A9JJmp%3B2%3AG@gwul49g4v-i3-38eb-2.kbjkbkk.workers.dev:443?security=tls&sni=gwUL49G4V-I3-38eB-2.KBJKbKK.worKeRs.deV&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=gwul49g4v-i3-38eb-2.kbjkbkk.workers.dev&path=%2Ftr%2FKpCCKNtVQytGAkaZcOBcOYIc%3Fed%3D2560#%205.Mardin%3BGmae%2F%20Trojan%20-%20Domain%20%3A%20443"
     }
   ]
 }
