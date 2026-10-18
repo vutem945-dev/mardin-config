@@ -1,0 +1,42 @@
+
+{
+  "schema_version": 1,
+  "channels": [
+    {
+      "id": "telegram",
+      "platform": "telegram",
+      "name_fa": "تلگرام",
+      "name_en": "Telegram",
+      "url": "https://t.me/YOUR_CHANNEL",
+      "deep_link": "tg://resolve?domain=YOUR_CHANNEL",
+      "enabled": true
+    },
+    {
+      "id": "soroush",
+      "platform": "soroush",
+      "name_fa": "سروش پلاس",
+      "name_en": "Soroush Plus",
+      "url": "https://splus.ir/YOUR_CHANNEL",
+      "deep_link": "https://splus.ir/YOUR_CHANNEL",
+      "enabled": true
+    },
+    {
+      "id": "rubika",
+      "platform": "rubika",
+      "name_fa": "روبیکا",
+      "name_en": "Rubika",
+      "url": "https://rubika.ir/YOUR_CHANNEL",
+      "deep_link": "https://rubika.ir/YOUR_CHANNEL",
+      "enabled": true
+    },
+    {
+      "id": "bale",
+      "platform": "bale",
+      "name_fa": "بله",
+      "name_en": "Bale",
+      "url": "https://ble.ir/YOUR_CHANNEL",
+      "deep_link": "https://ble.ir/YOUR_CHANNEL",
+      "enabled": true
+    }
+  ]
+}
