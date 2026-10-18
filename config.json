@@ -27,14 +27,14 @@
 
   "configs": [
     {
-      "name": "💎GOLD💎 VLESS-MardinCP / 1 کوره کا لقمان ناوسگ یو بری",
+      "name": "💎GOLD💎 VLESS-MardinCP / 1 ",
       "country": "Germany",
       "type": "Trojan",
       "recommended": true,
       "link": "trojan://u%3AsUmMGIOc-r%40%24KL%3A@188.114.97.3:2087?security=tls&sni=6Rg67GMo4jft-vVZ.paGEs.DeV&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=6rg67gmo4jft-vvz.pages.dev&path=%2Ftr%2F2PIuC4fizedttz9Wkz163Th6vR%3Fed%3D2560#%F0%9F%98%82%D8%A8%D9%87%20%D8%B4%D8%B1%D9%81%20%DA%A9%D8%A7%20%D9%84%D9%82%DA%A9%D8%A7%D9%86%20%D9%87%D8%B1%20%D8%A8%D9%88%DB%8C%D8%AA%D9%87%20%D8%A8%D8%A7%DB%8C%D8%B3%DB%8C%20IPv4%20%3A%202087"
     },
     {
-      "name": "1.Trojan-MardinCP / 1برای اختلال نت",
+      "name": "1.Trojan-MardinCP / 1",
       "country": "Germany",
       "type": "vless",
       "link": "vless://40361bdb-7ff7-469e-98e0-984363f2dab5@www.speedtest.net:8443?encryption=none&security=tls&sni=6rG67gmO4jfT-VVZ.PagES.dEv&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=6rg67gmo4jft-vvz.pages.dev&path=%2Fvl%2FBT7YJjdYYfOmo4YQlr69EHz%3Fed%3D2560#%D8%B4%D8%B1%D8%A7%DB%8C%D8%B7%20%D8%AC%D9%86%DA%AF%DB%8CIP%20%3A%208443"
