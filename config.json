@@ -1,6 +1,6 @@
 {
   "app_name": "Mardin",
-  "last_update": "2026-10-18 20:01",
+  "last_update": "2026-10-18 20:06",
   "telegram_proxies": [
     {
       "name": "United States Telegram",
@@ -47,7 +47,7 @@
       "name": "M22",
       "country": "Germany",
       "type": "Trojan",
-      "link": "trojan://u%3AsUmMGIOc-r%40%24KL%3A@188.114.97.3:2087?security=tls&sni=6Rg67GMo4jft-vVZ.paGEs.DeV&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=6rg67gmo4jft-vvz.pages.dev&path=%2Ftr%2F2PIuC4fizedttz9Wkz163Th6vR%3Fed%3D2560#M-port%3A2087"
+      "link": "trojan://vPfo3Hb2Cdo%3BMBG%240@www.speedtest.net:8443?security=tls&sni=8Qv7jC3J0EtoSMWvI6L-S1.PAgES.DEV&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=8qv7jc3j0etosmwvi6l-s1.pages.dev&path=%2Ftr%2FPwPB72B5R1ScxxwSNfJk2zRmHtrB8%3Fed%3D2560#M%20Clean%20IP%20%3A%208443"
     },
     {
       "name": "Domain:MarDin11/port:2083",
