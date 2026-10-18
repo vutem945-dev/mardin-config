@@ -1,6 +1,6 @@
 {
   "app_name": "Mardin",
-  "last_update": "2026-09-28 02:08",
+  "last_update": "2026-09-29 02:08",
 
   "telegram_proxies": [
     {
@@ -50,7 +50,7 @@
       "country": "Iran",
       "type": "Trojan",
       "recommended": true,
-      "link": "{
+      "link":
 "dns": {
 "hosts": {
 "cloudflare-dns.com": [
@@ -288,8 +288,7 @@
 },
 "stats": {
 }
-}"
-    },
+   },
     {
       "name": "Complete nationwide internet blackout for downloading study materials (Md)",
       "country": "Iran",
