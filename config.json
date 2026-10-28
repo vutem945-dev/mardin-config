@@ -17,6 +17,13 @@
       "link": "https://t.me/proxy?server=hadaf.golgoli2.co.uk&port=2053&secret=eeNEgYdJvXrFGRMCIMJdCQ"
     },
     {
+      "name": "Iran Telegram",
+      "country": "Russia",
+      "type": "MTProto",
+      "recommended": true,
+      "link": "https://t.me/proxy?server=95.217.148.96&port=26230&secret=ee199a53a093b59fbcdbea94f78b51fdf67777772e636c6f7564666c6172652e636f6d"
+    },
+    {
       "name": "Oman Telegram",
       "country": "Oman",
       "type": "MTProto",
