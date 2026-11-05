@@ -1,20 +1,20 @@
 {
   "app_name": "Mardin",
-  "last_update": "2026-10-19 20:12",
+  "last_update": "2026-10-21 20:12",
   "telegram_proxies": [
     {
       "name": "United States Telegram",
       "country": "United States",
       "type": "MTProto",
       "recommended": true,
-      "link": "https://t.me/proxy?server=ssh.meow0.co.uk&port=22&secret=dd79e344818749bd7ac519130220c25d09"
+      "link": "https://t.me/proxy?server=172.65.119.133&port=25565&secret=ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d"
     },
     {
       "name": "Russia Telegram",
       "country": "Russia",
       "type": "MTProto",
       "recommended": true,
-      "link": "https://t.me/proxy?server=hadaf.golgoli2.co.uk&port=2053&secret=eeNEgYdJvXrFGRMCIMJdCQ"
+      "link": "https://t.me/proxy?server=for-ir.speedtestcdn.info&port=8443&secret=dd71889eb517157210d61df330a5f11d95"
     },
     {
       "name": "Iran Telegram",
@@ -32,11 +32,11 @@
   ],
   "configs": [
     {
-      "name": "💎GOLD💎 VLESS-MardinCP / 1 just one",
-      "country": "Germany",
-      "type": "Trojan",
+      "name": "💎GOLD💎🇺🇸USA🇺🇸 VLESS-MardinCP",
+      "country": "United States",
+      "type": "vless",
       "recommended": true,
-      "link": "trojan://u%3AsUmMGIOc-r%40%24KL%3A@188.114.97.3:2087?security=tls&sni=6Rg67GMo4jft-vVZ.paGEs.DeV&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=6rg67gmo4jft-vvz.pages.dev&path=%2Ftr%2F2PIuC4fizedttz9Wkz163Th6vR%3Fed%3D2560#M-port%3A2087"
+      "link": "vless://561a96c3-5b84-4102-8758-7cd0e154a6ce@3.144.167.194:443?authority=&encryption=mlkem768x25519plus.native.0rtt.aVzsPNfKOJjmxcG9ok5slWFbXeNUf7FWMfFUaORCO34&fp=chrome&pbk=pImGK1ICM3v2O8cbr3nuyrw1b9IHGzS25CSF-KbkW2w&security=reality&serviceName=&sid=96cee395&sni=www.amzn.com&spx=%2F9f96150d1645244&support-x25519mlkem768=true&type=grpc#tcp%2Bgrpc-MoUSA"
     },
     {
       "name": "1.Trojan-MardinCP / 1 bad net",
